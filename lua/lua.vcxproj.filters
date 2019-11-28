@@ -114,6 +114,9 @@
     <ClCompile Include="..\src\lbg_debuggee.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\lgb_global.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\ltable.h">
@@ -189,6 +192,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\src\lbg_sock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lbg_global.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
